@@ -1,0 +1,8 @@
+numpy
+matplotlib
+torch
+transformers
+sentencepiece
+accelerate
+keybert
+sentence-transformers
